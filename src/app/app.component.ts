@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  template: '<events-list></events-list>'
+  template: ' <event-details></event-details>'
 })
 
 export class AppComponent {
